@@ -1,0 +1,17 @@
+B_HW_Java08
+4) IProductMgr 을 상속받아 구현할 ProductMgrImpl 클래스 작성
+-모든 상품 정보는 ArrayList 를 이용하여 관리
+ 선택 ] Map 활용하여 관리
+
+--->interface IProductMgr {} : abstract method 정의.
+--->ProductMgrImpl implements IProductMgr {} : abstract method 구현.
+
+5) ProductTest 클래스
+--->메뉴 구현 요구사항 없음.
+
+
+
+B_WS_Java08
+--->interface IBookMgr {} : abstract method 정의.
+--->ProductMgrImpl implements BookMgrImpl {} : abstract method 구현.
+--->메뉴 구현 요구사항 없음.
